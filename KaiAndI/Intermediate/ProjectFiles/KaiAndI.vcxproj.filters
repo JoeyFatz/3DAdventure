@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KaiAndI.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{96A71664-538E-4406-8DD3-42E05CD6BB21}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KaiAndI.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KaiAndIEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BFEED042-309D-433F-9EB1-0B5968D79E07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{7D3C007C-B4BE-41AA-AC9E-81A037DB3AE4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{348436FD-0DC8-44C7-A20F-8DDC8CD5B245}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{11AEF7F9-1427-4431-A75A-D2BF3F5A9199}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{B3F6335B-8477-4FB8-8053-71749EAB6FE2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{8FB2AF94-2D5F-4E77-B95D-2960C7E909B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{3C4A4D49-AA0C-4339-9203-880F74B8F51F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{B00C1559-1A51-46F8-99AA-7C1628280B05}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{CA86B153-FE95-4487-8F44-7A99864B5C87}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\KaiAndI">
+      <UniqueIdentifier>{5B7A171E-6538-44F2-B3CA-306B7F8709B6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\KaiAndI\DialogueTrigger.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\DialogueTrigger.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\InteractVolume.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\InteractVolume.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\KaiAndI\KaiAndI.Build.cs">
+      <Filter>Source\KaiAndI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KaiAndI\KaiAndI.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\KaiAndI.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\KaiAndIGameModeBase.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\KaiAndIGameModeBase.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\LampVolume.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\LampVolume.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\NPCStationary.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\NPCStationary.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\PlayerOne.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\PlayerOne.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\PlayerOneAnimInstance.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\PlayerOneAnimInstance.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KaiAndI\PlayerOneController.cpp">
+      <Filter>Source\KaiAndI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KaiAndI\PlayerOneController.h">
+      <Filter>Source\KaiAndI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

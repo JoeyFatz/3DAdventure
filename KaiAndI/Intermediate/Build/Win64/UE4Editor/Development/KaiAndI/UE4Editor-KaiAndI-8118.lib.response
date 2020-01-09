@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KaiAndI-8118.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\KaiAndIEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueComponent.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueTrigger.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueVolume.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\InteractVolume.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\KaiAndI.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\KaiAndIGameModeBase.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\LampVolume.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\NPCStationary.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOne.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOneAnimInstance.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOneController.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueComponent.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueTrigger.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\DialogueVolume.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\InteractVolume.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\KaiAndI.init.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\KaiAndIGameModeBase.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\LampVolume.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\NPCStationary.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOne.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOneAnimInstance.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\PlayerOneController.gen.cpp.obj"
+"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Projects\KaiAndI\KaiAndI\Intermediate\Build\Win64\UE4Editor\Development\KaiAndI\UE4Editor-KaiAndI-8118.lib"
+/INCLUDE:IMPLEMENT_MODULE_KaiAndI
